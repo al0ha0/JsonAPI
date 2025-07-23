@@ -1,44 +1,4 @@
 {
-  "city": "Robloxville",
-  "buildings": [
-    {
-      "id": 1,
-      "name": "Sky Tower",
-      "type": "Skyscraper",
-      "height_m": 320,
-      "floors": 75,
-      "location": {
-        "x": 102.5,
-        "y": 45.3
-      },
-      "status": "completed",
-      "owner": "RBLXCorp"
-    },
-    {
-      "id": 2,
-      "name": "Sunset Apartments",
-      "type": "Residential",
-      "height_m": 40,
-      "floors": 12,
-      "location": {
-        "x": 215.8,
-        "y": 103.9
-      },
-      "status": "under_construction",
-      "owner": "BuilderBroz"
-    },
-    {
-      "id": 3,
-      "name": "Central Library",
-      "type": "Public",
-      "height_m": 18,
-      "floors": 3,
-      "location": {
-        "x": 78.0,
-        "y": 88.5
-      },
-      "status": "completed",
-      "owner": "City Council"
-    }
-  ]
+  "message1":"Hello Vania!";
+  "message2":"Hello Zhenya!";
 }
