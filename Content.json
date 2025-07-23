@@ -1,1 +1,16 @@
-
+{
+  "username": "DmytroL",
+  "email": "dmytro@example.com",
+  "age": 17,
+  "premium": true,
+  "preferences": {
+    "language": "uk-UA",
+    "theme": "dark",
+    "notifications": true
+  },
+  "stats": {
+    "level": 12,
+    "xp": 3450,
+    "achievements": ["first_login", "daily_user", "collector"]
+  }
+}
